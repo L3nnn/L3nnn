@@ -1,5 +1,4 @@
 
-![Uploading text-to-image.png…]()
 
 
 <h1 style="color:blue;">L3nnn</h1>
